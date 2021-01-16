@@ -14,15 +14,15 @@ Screenshots
 -----------
 Окно начала сеанса:
 
-![Окно начала сеанса](https://github.com/Nazir/PSM-2012/blob/master/Screenshots/ScrSh_PowerSupplyMeter1_01_Login.png)
+![Окно начала сеанса](./Screenshots/ScrSh_PowerSupplyMeter1_01_Login.png)
 
 Главное окно:
 
-![Главное окно](https://github.com/Nazir/PSM-2012/blob/master/Screenshots/ScrSh_PowerSupplyMeter1_02_Main.png)
+![Главное окно](./Screenshots/ScrSh_PowerSupplyMeter1_02_Main.png)
 
 Окно редактирования:
 
-![Окно редактирования](https://github.com/Nazir/PSM-2012/blob/master/Screenshots/ScrSh_PowerSupplyMeter1_03_UpdateRecord.png)
+![Окно редактирования](./Screenshots/ScrSh_PowerSupplyMeter1_03_UpdateRecord.png)
 
 Repo owner
 ----------
